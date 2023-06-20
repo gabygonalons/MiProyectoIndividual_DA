@@ -18,7 +18,7 @@ Considerando su acrónimo del inglés MOOC significa Massive Open Online Course.
   estudiante-estudiante y estudiantes-profesores. La mediación de la tecnología y el carácter masivo generan limitaciones pero también 
   abren posibilidades inexistentes en otro tipo de cursos.
 
-  ## Plataformas de Cursos MOOC
+## Plataformas de Cursos MOOC
 
  ### TOP 5 - Plataformas MOOC de Norteamérica y Estados Unidos
   + Coursera / Estados Unidos
